@@ -1,6 +1,6 @@
 # Recursion en funciones lambda
 ---
-En este caso calcularemos el factorial de un número usando expresiones lambda y recursividad.
+Factorial de un número
 ---
 Partimos de la expresion lambda:
 
