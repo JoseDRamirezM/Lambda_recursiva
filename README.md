@@ -9,7 +9,7 @@ lambda x: 1 if x == 0  λ(x)
 ```
 Aprovechamos la orientacion a objetos de python definiendo:
 ```python
-fact = lambda x: 1 if x == 0 else x * fact(x-1)
+fact = lambda x: 1 if x == 0 else x * fact(x-1) xλ(x)
 ```
 Generando un llamado recursivo, reduciendo el valor del parametro x, hasta 0 y obtener lo que se requiere evaluando:
 ```python
